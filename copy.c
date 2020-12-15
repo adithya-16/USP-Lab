@@ -1,6 +1,3 @@
-//Perform File copy operation using read and write API .Open the file in appropriate mode if it doesn't exist 
-//create the file using OPEN API (set appropriate flags  reading and writing of file) and perform copy operation of one file to another
-
 #include<stdio.h> 
 #include<stdlib.h> 
 #include<fcntl.h> 
